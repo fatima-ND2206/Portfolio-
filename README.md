@@ -43,6 +43,10 @@ Développement d’une calculatrice interactive et d’outils de visualisation d
 
 Implémentation d’arbres ABR et AVL, de parcours et d’algorithmes de rééquilibrage.
 
+[Analyse de données — Python](https://github.com/fatima-ND2206/Analyse-de-donnees-python) *(En cours)*
+
+Projet d’analyse et de visualisation de données à l’aide de Python.
+
 Objectifs
 
 Poursuivre mes études en informatique, notamment dans les domaines de la cybersécurité, de la Data Science ou de l’intelligence artificielle, et approfondir mes compétences à travers des projets concrets.
