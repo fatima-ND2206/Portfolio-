@@ -27,19 +27,19 @@ Compétences
 
 Projets académiques
 
-Jeu agricole — Java
+[Jeu agricole — Java](https://github.com/fatima-ND2206/jeu-agricole-java)
 
 Projet de groupe portant sur le développement d’un jeu agricole, avec travail sur la classe Climat et la documentation relative aux plantes, aux sols et aux climats.
 
-Bases de données — SQL
+[Projet SQL](https://github.com/fatima-ND2206/Projet-sql)
 
 Conception et interrogation de bases de données de gestion à travers des requêtes, jointures et regroupements.
 
-Outils interactifs et visualisation — TypeScript, HTML / CSS
+[Outils interactifs](https://github.com/fatima-ND2206/Outils-interactifs-)
 
 Développement d’une calculatrice interactive et d’outils de visualisation de structures de données et d’algorithmes de tri.
 
-Structures de données — C++
+[Algorithmes C++](https://github.com/fatima-ND2206/Algorithme-cpp)
 
 Implémentation d’arbres ABR et AVL, de parcours et d’algorithmes de rééquilibrage.
 
